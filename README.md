@@ -3,6 +3,7 @@ Meetup 19/08/2021
 
 - [Событие](https://dddevotion.timepad.ru/event/1733246/)
 - [Презентация](https://drive.google.com/file/d/1hf8KYCCC9c4qeh5Is1BRyvynvJov5vxz/view?usp=sharing)
+- [Выступление](https://www.youtube.com/watch?v=5Adgq-4KJoo)
 
 DDDocs — генерирем документацию по модному
 ------------------------------------------
